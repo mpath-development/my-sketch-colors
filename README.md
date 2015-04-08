@@ -1,11 +1,9 @@
 # My Sketch Colors
-## 50 Shades of Grey Edition
+## mPATH Colors
 
-![screenshot](screenshot.png)
 
-This is my color preset in Sketch app. It's perfect for all those super grayscale Sketch fantasies you have.
+This is the mPath color palette as a preset for the Sketch app (3.3 and higher).
 
-You can grab it if you like.
 
 ![inspect](inspect.png)
 
@@ -35,11 +33,4 @@ You can also [restore your colors](https://github.com/danieljacobarcher/my-sketc
 
 
 
-# Contribution
 
-If you got any better ideas,
-Just send me a pull request or add an issue.
-
-## License
-
-This is provided as-is. I will not be providing support, at all. Maybe call Mr. Grey.
